@@ -1,0 +1,39 @@
+.menu{
+    color: #2b6ee2;
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.calles__e{
+    color: blue;
+    font-size: x-large;
+    font-style: italic;
+}
+.calles__respuesta{
+color: black;
+font-size: 14px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-weight: bold;
+}
+.objetivos__prioridades{
+    color: blue;
+    font-style: italic;
+}
+.ovjetivos__res{
+    color: black;
+    font-size: 14px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-weight: bold;
+}
+.preguntasflecuentes{
+    color: blue;
+    font-style: italic;
+}
+.preguntasflecuentes__res{
+    color: black;
+    font-size: 14px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-weight: bold;
+}
+
+
