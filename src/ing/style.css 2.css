@@ -1,0 +1,215 @@
+nav{
+    color: aquamarine;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style: italic;
+    
+    text-align: justify;
+    list-style: none;
+  }
+
+.menu{
+    color: #2b6ee2;
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.calles__e{
+    color: blue;
+    font-size: x-large;
+    font-style: italic;
+}
+.calles__respuesta{
+color: black;
+font-size: 14px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-weight: bold;
+}
+.objetivos__prioridades{
+    color: blue;
+    font-style: italic;
+}
+.ovjetivos__res{
+    color: black;
+    font-size: 14px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-weight: bold;
+}
+.preguntasflecuentes{
+    color: blue;
+    font-style: italic;
+}
+.preguntasflecuentes__res{
+    color: black;
+    font-size: 14px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-weight: bold;
+}
+.card{
+    width: 400px;
+    height: 400px;
+    margin:10px;
+    border:1px solid blue;
+    color:aliceblue;
+    list-style: none;
+   
+
+}
+.card__imagen{
+    width: 80%;
+    padding: 15px;
+    border-radius: 10%
+ 
+}
+.muerte{
+    width: 400px;
+    height: 400px;
+    margin:10px;
+    border:1px solid blue;
+    color:aliceblue;
+    list-style: none; 
+}
+.muerte__inf{
+    width: 70%;
+    padding: 15px;
+    border-radius: 10%    
+}
+.nexo{
+    width: 400px;
+    height: 400px;
+    margin:10px;
+    border:1px solid blue;
+    color:aliceblue;
+    list-style: none
+}
+.nexo__imagen{
+    width: 50%;
+    padding: 15px;
+    border-radius: 10%    
+}
+.carriles{
+    width: 400px;
+    height: 400px;
+    margin:10px;
+    border:1px solid blue;
+    color:aliceblue;
+    list-style: none
+}
+.carriles__img{
+    width: 60%;
+    padding: 15px;
+    border-radius: 10%  
+}
+.dragon{
+    width: 400px;
+    height: 400px;
+    margin:10px;
+    border:1px solid blue;
+    color:aliceblue;
+    list-style: none
+}
+.dragon__img{
+    width: 60%;
+    padding: 15px;
+    border-radius: 10%   
+}
+.baron{
+    width: 400px;
+    height: 400px;
+    margin:10px;
+    border:1px solid blue;
+    color:aliceblue;
+    list-style: none
+}
+.baron__img{
+    width: 60%;
+    padding: 15px;
+    border-radius: 10% 
+}
+.heraldo{
+    width: 400px;
+    height: 400px;
+    margin:10px;
+    border:1px solid blue;
+    color:aliceblue;
+    list-style: none
+}
+.heraldo__im{
+    width: 60%;
+    padding: 15px;
+    border-radius: 10% 
+}
+
+
+
+
+
+
+
+#header{
+    background-image: url("./img/nexo.pngp");
+    background-repeat: no-repeat;
+    background:linear-gradient(90deg,blue,red);
+    background-size: 90%;
+    background-clip:border-box;
+}
+.heraldo__im {
+    border: 0.8em rgb(48, 18, 184);
+    border-style: dotted double;
+    margin: 1em 0;
+    padding: 1.4em;
+    background: linear-gradient(60deg, rgb(8, 8, 8), rgb(242, 242, 242), rgb(14, 13, 13), rgb(242, 242, 234), rgb(30, 0, 255));
+    font: 900 1.2em sans-serif;
+    text-decoration: underline;
+  }
+  
+  .border-box {
+    background-clip: border-box;
+  }
+  .padding-box {
+    background-clip: padding-box;
+  }
+  .content-box {
+    background-clip: content-box;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.boton-div{
+    width:200px;
+    height: 200px;
+    padding:15px;
+    border:5px solid rgb(230, 117, 19);
+    margin:10px;
+}
+.boton-div__enviar{
+    font-size: 14px;
+    color: blue;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
